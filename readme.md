@@ -19,7 +19,7 @@ Este projeto é uma atividade prática que simula o uso de **estruturas de dados
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
 2. Navegue até a pasta do projeto:
 ```
